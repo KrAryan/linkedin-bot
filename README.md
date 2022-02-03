@@ -1,4 +1,4 @@
-[Linkedin-extension](https://github.com/KrAryan/linkedin-bot)
+<a herf="https://github.com/KrAryan/linkedin-bot"><h1>Linkedin-extension</h1></a>
 
 Are you tired on tapping connect button on linkedin every day? Try this extension!
 
