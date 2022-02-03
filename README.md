@@ -6,7 +6,7 @@ Are you tired on tapping connect button on linkedin every day? Try this extensio
 
 Clone the repo on your local machine
 
-Try using this command : `git clone https://github.com/Aarush-Goyal/linkedin-bot.git`
+Try using this command : `git clone https://github.com/KrAryan/linkedin-bot.git`
 
 Add the chrome extension to your chrome browser by going `chrome://extensions` and clicking on `Load Unpacked`
 
