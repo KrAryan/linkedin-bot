@@ -16,4 +16,3 @@ Wait for 10s after the page loads up
 
 ### That's it!
 
-For futher queries try going to the [official website](https://linkedin-extension-website.vercel.app/) for this extension
